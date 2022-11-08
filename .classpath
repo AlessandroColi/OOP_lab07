@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="71-anonymous-nested-enum/src/main/java"/>
+	<classpathentry kind="src" path="71-anonymous-nested-enum/src/test/java"/>
+	<classpathentry kind="src" path="72-simple-gui/src/main/java"/>
+	<classpathentry kind="src" path="73-mvc-gui-reflection/src/main/java"/>
+	<classpathentry kind="lib" path="71-anonymous-nested-enum/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="72-simple-gui/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="73-mvc-gui-reflection/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
